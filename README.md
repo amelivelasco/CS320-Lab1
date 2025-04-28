@@ -41,11 +41,6 @@ The grade is based on a midterm (30%) as well as team project work (70%). Please
 |      | ...45. | Fri | 11.04.2025 | 13:15 | ELA 2  | Lecture 9 | [Simple Code Generation for If](https://mediaspace.epfl.ch/media/09-03%2C+Simple+Code+Generation+for+if+/0_wnn3dyxk) [(PDF)](info/lectures/lec09-ifs.pdf), [Translating Control with Destination Parameters](https://mediaspace.epfl.ch/media/10-01%2C+Translating+Control+with+Destination+Parameters/0_d6vyszy4) [(PDF)](info/lectures/lec09-destination-params.pdf), [Register Machines](https://mediaspace.epfl.ch/media/11-01%2C+Register+Machine/0_ukhf4yxp) [(PDF)](info/lectures/lec09-register.pdf) |
 |      | ...45. | Fri | 11.04.2025 | 15:15 | ELA 2  | Lab 5 | [Lab 05](info/labs/lab05/) |
 |      |        |     |            |       |        |                           | 
-
-## Schedule and Materials - Current
-
-| Week | Labs | Day | Date       | Time  | Room   | Topic                | Materials              |
-| :--  | :--  | :-- | :--        | :--   | :--    | :--                  | :--                    | 
 | 9    | ....56 | Wed | 16.04.2025 | 13:15 | BC 01  | Lab 5 | [Lab 05](info/labs/lab05/). Pick [Lab 06](info/labs/lab06/lab06-README.md) projects |
 |      |        | Fri | 18.04.2025 | 13:15 | ELA 2  | **HOLIDAY** |  |
 |      |        | Fri | 18.04.2025 | 15:15 | ELA 2  | **HOLIDAY** |  |
@@ -54,6 +49,11 @@ The grade is based on a midterm (30%) as well as team project work (70%). Please
 |      |        | Fri | 25.04.2025 |       |        | **BREAK** |  |
 |      |        | Fri | 25.04.2025 |       |        | **BREAK** |  |
 |      |        |     |            |       |        |                           | 
+
+## Schedule and Materials - Current
+
+| Week | Labs | Day | Date       | Time  | Room   | Topic                | Materials              |
+| :--  | :--  | :-- | :--        | :--   | :--    | :--                  | :--                    | 
 | 10   | ....56 | Wed | 30.04.2025 | 13:15 | BC 01  | Labs | **Oral Lab Checks** |
 |      | ....56 | Fri | 02.05.2025 | 13:15 | ELA 2  | Labs | **Oral Lab Checks** |
 |      | ....56 | Fri | 02.05.2025 | 15:15 | ELA 2  | Lecture 10 | [Compiler correctness 1](https://mediaspace.epfl.ch/media/13-01-Live1%2C+Correctness+of+Compilers%2C+Part+1/0_x118n11k), [Compiler Correctness 2](https://mediaspace.epfl.ch/media/13-02-Live2%2C+Correctness+of+Compilers%2C+Part+2/0_lipv3d1b) |
