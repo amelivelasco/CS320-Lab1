@@ -64,13 +64,15 @@ The grade is based on a midterm (30%) as well as team project work (70%). Please
 |      | .....6 | Fri | 16.05.2025 | 13:15 | ELA 2  | Labs |  |
 |      | .....6 | Fri | 16.05.2025 | 15:15 | ELA 2  | Labs |  |
 |      |        |     |            |       |        |                           | 
-| 13   | .....6 | Wed | 21.05.2025 | 13:15 | BC 01  |    | Project presentations |
+| 13   | .....6 | Wed | 21.05.2025 | 13:15 | BC 01  |    | [Project presentations](info/labs/lab06/presentation.md) |
 |      | .....6 | Fri | 23.05.2025 | 13:15 | ELA 2  |    | Project presentations |
 |      | .....6 | Fri | 23.05.2025 | 15:15 | ELA 2  |    | Project presentations |
 |      |        |     |            |       |        |                           | 
 | 14   | .....6 | Wed | 28.05.2025 | 13:15 | BC 01  |    | Project presentations |
 |      | .....6 | Fri | 30.05.2025 | 13:15 | ELA 2  |    | Project presentations |
 |      | .....6 | Fri | 30.05.2025 | 15:15 | ELA 2  |    | Project presentations |
+
+**Deadline for submission of the report and code:** 2 June 2025 at 23:59. [Project report template](info/labs/lab06/project_report_template.md)
 
 ## Books
 
