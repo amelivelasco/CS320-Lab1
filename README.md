@@ -50,16 +50,15 @@ The grade is based on a midterm (30%) as well as team project work (70%). Please
 |      |        | Fri | 25.04.2025 |       |        | **BREAK** |  |
 | 10   | ....56 | Wed | 30.04.2025 | 13:15 | BC 01  | Labs | **Oral Lab Checks** |
 |      | ....56 | Fri | 02.05.2025 | 13:15 | ELA 2  | Labs | **Oral Lab Checks** |
-|      | ....56 | Fri | 02.05.2025 | 15:15 | ELA 2  | Lecture 10 | [Compiler correctness 1](https://mediaspace.epfl.ch/media/13-01-Live1%2C+Correctness+of+Compilers%2C+Part+1/0_x118n11k), [Compiler Correctness 2](https://mediaspace.epfl.ch/media/13-02-Live2%2C+Correctness+of+Compilers%2C+Part+2/0_lipv3d1b), [(PDF)](info/lectures/lec10-correctness.pdf), [(code)](info/lectures/lec10-code/) |
+|      | ....56 | Fri | 02.05.2025 | 15:15 | ELA 2  | Lecture 10 | [Compiler correctness 1](https://mediaspace.epfl.ch/media/13-01-Live1%2C+Correctness+of+Compilers%2C+Part+1/0_x118n11k), [Compiler Correctness 2](https://mediaspace.epfl.ch/media/13-02-Live2%2C+Correctness+of+Compilers%2C+Part+2/0_lipv3d1b), [(Slides PDF)](info/lectures/lec10-correctness.pdf), [(code)](info/lectures/lec10-code/) |
+| 11   | .....6 | Wed | 07.05.2025 | 13:15 | BC 01  | Labs |  |
+|      | .....6 | Fri | 09.05.2025 | 13:15 | ELA 2  | Lecture 11 | Guest Lecture by [Sebastien Doeraene](https://people.epfl.ch/sebastien.doeraene):  Scala's Wasm backend [(Slides PDF)](info/lectures/lec11-S-Doeraene-Compiling-Scala.js-to-WebAssembly.pdf) [(docs)](https://www.scala-js.org/doc/project/webassembly.html), [(implementation)](https://github.com/scala-js/scala-js/tree/main/linker/shared/src/main/scala/org/scalajs/linker/backend/wasmemitter#readme) |
+|      | .....6 | Fri | 09.05.2025 | 15:15 | ELA 2  | Labs |  |
 
 ## Schedule and Materials - Current
 
 | Week | Labs | Day | Date       | Time  | Room   | Topic                | Materials              |
 | :--  | :--  | :-- | :--        | :--   | :--    | :--                  | :--                    | 
-| 11   | .....6 | Wed | 07.05.2025 | 13:15 | BC 01  | Labs |  |
-|      | .....6 | Fri | 09.05.2025 | 13:15 | ELA 2  | Lecture 11 | Guest Lecture by [Sebastien Doeraene](https://people.epfl.ch/sebastien.doeraene):  Scala's Wasm backend [(docs)](https://www.scala-js.org/doc/project/webassembly.html), [(implementation)](https://github.com/scala-js/scala-js/tree/main/linker/shared/src/main/scala/org/scalajs/linker/backend/wasmemitter#readme) |
-|      | .....6 | Fri | 09.05.2025 | 15:15 | ELA 2  | Labs |  |
-|      |        |     |            |       |        |                           | 
 | 12   | .....6 | Wed | 14.05.2025 | 13:15 | BC 01  | Labs |  |
 |      | .....6 | Fri | 16.05.2025 | 13:15 | ELA 2  | Labs |  |
 |      | .....6 | Fri | 16.05.2025 | 15:15 | ELA 2  | Labs |  |
