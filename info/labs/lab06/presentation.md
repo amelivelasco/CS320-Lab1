@@ -9,7 +9,6 @@ Your presentation should summarize your project. In particular, we'd expect you 
   * introduce yourself (everyone should speak!)
   * state the goals of the project
   * indicate which theoretical background you neededed
-  * mention the title of your background paper
   * indicate what makes your project non-trivial
 
 In the remaining minutes you should:
