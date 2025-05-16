@@ -54,16 +54,15 @@ The grade is based on a midterm (30%) as well as team project work (70%). Please
 | 11   | .....6 | Wed | 07.05.2025 | 13:15 | BC 01  | Labs |  |
 |      | .....6 | Fri | 09.05.2025 | 13:15 | ELA 2  | Lecture 11 | Guest Lecture by [Sebastien Doeraene](https://people.epfl.ch/sebastien.doeraene):  Scala's Wasm backend [(Slides PDF)](info/lectures/lec11-S-Doeraene-Compiling-Scala.js-to-WebAssembly.pdf) [(docs)](https://www.scala-js.org/doc/project/webassembly.html), [(implementation)](https://github.com/scala-js/scala-js/tree/main/linker/shared/src/main/scala/org/scalajs/linker/backend/wasmemitter#readme) |
 |      | .....6 | Fri | 09.05.2025 | 15:15 | ELA 2  | Labs |  |
+| 12   | .....6 | Wed | 14.05.2025 | 13:15 | BC 01  | Labs |  |
+|      | .....6 | Fri | 16.05.2025 | 13:15 | ELA 2  | Labs |  |
+|      | .....6 | Fri | 16.05.2025 | 15:15 | ELA 2  | Labs |  |
 
 ## Schedule and Materials - Current
 
 | Week | Labs | Day | Date       | Time  | Room   | Topic                | Materials              |
 | :--  | :--  | :-- | :--        | :--   | :--    | :--                  | :--                    | 
-| 12   | .....6 | Wed | 14.05.2025 | 13:15 | BC 01  | Labs |  |
-|      | .....6 | Fri | 16.05.2025 | 13:15 | ELA 2  | Labs |  |
-|      | .....6 | Fri | 16.05.2025 | 15:15 | ELA 2  | Labs |  |
-|      |        |     |            |       |        |                           | 
-| 13   | .....6 | Wed | 21.05.2025 | 13:15 | BC 01  |    | [Project presentations](info/labs/lab06/presentation.md) |
+| 13   | .....6 | Wed | 21.05.2025 | 13:15 | BC 01  |    | [Project presentations](info/labs/lab06/presentation.md). See also [grading](info/grading.md) |
 |      | .....6 | Fri | 23.05.2025 | 13:15 | ELA 2  |    | Project presentations |
 |      | .....6 | Fri | 23.05.2025 | 15:15 | ELA 2  |    | Project presentations |
 |      |        |     |            |       |        |                           | 
@@ -71,7 +70,10 @@ The grade is based on a midterm (30%) as well as team project work (70%). Please
 |      | .....6 | Fri | 30.05.2025 | 13:15 | ELA 2  |    | Project presentations |
 |      | .....6 | Fri | 30.05.2025 | 15:15 | ELA 2  |    | Project presentations |
 
-**Deadline for submission of the report and code:** 2 June 2025 at 23:59. [Project report template](info/labs/lab06/project_report_template.md)
+**Deadline for submission of the report and code:** 2 June 2025 at 23:59. Keeping in mind the [grading policy](info/grading.md), please submit:
+  * [Final Project Report PDF + Code zip file including README](https://moodle.epfl.ch/mod/assign/view.php?id=1297544). One PDF for report following [Project report template](info/labs/lab06/project_report_template.md) and one ZIP file containing README with instructions. Only one person should submit on behalf of the group. Resubmissions are possible until the deadline.
+  * [Final Teamwork Statement](https://moodle.epfl.ch/mod/assign/view.php?id=1337629) to be submitted by every student individually, applying to all the labs in the course including Lab 6.
+
 
 ## Books
 
