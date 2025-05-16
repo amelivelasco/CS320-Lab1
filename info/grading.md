@@ -20,3 +20,21 @@ Please note that, after the lab deadline, we reserve the right to ask you to exp
 To monitor whether everyone is doing their share of work and help ensure that group members work together, we ask each student to submit via email their teamwork statement, twice during the semester: once right after Lab 3 is due, and once at the end of the semester. Please read carefully the [Teamwork Statements](teamwork.md) email instructions.
 
 For the final Lab 6, each group will need to do their own project, based on our suggestions or your own ideas that you check with the teaching staff. Each member of the group must present the project in a slot, in one of the last two weeks of the semester and answer questions. The presentation part of each person will be graded individually and depends on the answers to questions. A person not presenting will be given 0 points for the presentation part of the Compiler extension lab. The final report on the project will need to be handed in after the end of the semester. The students are encouraged to complete it during the semester as this is a continuous control course.
+
+## Final project grading breakdown (20pts)
+
+- Presentation (5pts) (*individual to each member*)
+  - Quality of the presentation
+  - Q&A session
+- Project (Code) (10pts)
+  - Should build
+    - If you have unfinished feature, you can include them in a file that does not break the build  
+  - Should pass as many existing tests as possible
+  - Should include new tests showcasing the new features
+  - Should pass **all** new tests related to the new features
+    - If you have tests that do not pass, you can include them in a file that does not break the build
+  - Should include README.md with
+    - instructions to run the code
+    - files we should look at to see your work
+- Report (5pts)
+  - Quality of the report and following the template
