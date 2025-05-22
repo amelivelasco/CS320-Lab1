@@ -11,6 +11,10 @@
 - First3 Last3
   - email: <first3.last3@epfl.ch>
 
+## Abstract
+
+In one paragraph (50-10 sentences), describe the goals and results of your project. We have suggested that you use markdown format to generate PDF, to avoid the complexities of systems such as LaTeX.
+
 ## Introduction
 
 Describe in a few words what you did in the first part of the compiler project (the non-optional labs), and briefly say what problem you want to solve with your extension.
@@ -23,9 +27,10 @@ Text that is unnecessarily long and does not say anything is bad. Be to the poin
 You are encouraged to use basic spell checkers and it's fine to use grammar checkers that point to errors, but not tools that write sentences for you. 
 We appreciate clarity and correct English, but do not care about the literary value of the text.
 
-The entire report, when exported to PDF, should be approximately 5 pages.
+The entire report, when exported to PDF, should be 4-10 pages. Longer is not always better: a well-written five-page report can already carry maximum amount of points if it contains the information that it should contain, but if you need to use 
+10 pages, you can. If you are doing over 10 pages, please write additional explanations in the zip file and submit it with the sources. Please indicate in the report where to find this additional information.
 
-## Examples
+## Examples and Use of the Extension
 
 Give code examples where your extension is useful, and describe how users would work with it. Make sure you include examples where the most intricate features of your extension are used, so that we have an immediate understanding of what the challenges are. For this section, assume that your reader is a user of Amy language that received a feature upgrade thanks to your project.
 
@@ -49,13 +54,16 @@ If you introduce new syntax, do not worry if it is not colored correctly.
 
 This section should convince us that you understand how your extension can be useful and that you thought about the corner cases.
 
+Please also use this section to explain how users would see the results of your work, including how to invoke the compiler with additional command-line options, if it applies to your work.
+
 ## Implementation
 
 This is a very important section, you explain to us how you made it work. It it not acceptable to have a project that you do not understand why it works. If you used tools or friends to help you generate the code, you still need to understand and describe it.
 
+
 ### Background
 
-If you are using theoretical concepts, explain them first in this subsection. Even if they come from the course, try to explain the essential points in your own words. Cite any reference work you used like this [Appel 2002]. This should convince us that you know the theory behind what you coded. Web sites and blog posts are not ideal, but if you used them, create references for them and cite them. If you made use of GitHub projects, also create citations for them and cite them.
+If you are using theoretical concepts, explain them first in this subsection. Even if they come from the course, try to explain the essential points in your own words. Cite any reference work you used like this [Appel 2002]. This should convince us that you know the theory behind what you coded. Web sites and blog posts are not ideal, but if you used them, create references for them and cite them. If you made use of GitHub projects, also create citations for them and cite them. 
 
 ### Implementation details
 
@@ -73,3 +81,13 @@ In any case, describe how you could further extend your compiler in the directio
 
 - A. W. Appel. *Modern Compiler Implementation in Java.* Cambridge University Press, 2nd edition, 2002.
 - V. Kuncak. *How to use DBLP web site to generate nice citations and why you should include DOI links.*, Madeup Conference, Lausanne, May 2025, https://doi.org/10.1145/3385412.3385992
+
+### A Suggestion for Creating References
+
+When citing published papers, we suggest that you use DBLP to generate a citation for the References section below. For example, suppose we wish to cite the paper "Colored Local Type Inference" by Martin Odersky. We search for "Martin Odersky DBLP" and find the page https://dblp.org/pid/o/MartinOdersky.html where we navigate to year 2001 where paper was published. Then we select and copy the reference text:
+
+```
+Martin Odersky, Christoph Zenger, Matthias Zenger: Colored local type inference. POPL 2001: 41-53
+```
+
+and give it a suitable name, such as [OZZ 2001] (following the last names of authors and the year). Then we use [OZZ 2001] whenever we wish to refer to this paper in the report.
