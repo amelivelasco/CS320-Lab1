@@ -1,3 +1,5 @@
+# First Teamwork Report 
+
 To monitor fair division of work in your groups, we ask that each of you sends us an _individual_ email, from your EPFL address, to both PhD assistants and the instructor via **email**.
 The email should contain an estimate how much you and your team mates contributed to each of the four common projects and to the self-chosen final project, with * next to your name, in the form of a table with percentages rounded down, e.g., with a perfect split:
 
@@ -13,7 +15,9 @@ We leave it to each of you whether you discuss and reconcile these numbers and c
 
 If we get nearly 33% for everything from every group member of a 3-person group (with or without explanations), we will trust this group did a fair split and leave it at that. Else, we may follow up with you in the following weeks. We will try to use this information in a positive way, and we hope that this final step will not ruin any otherwise working group dynamics.
 
-We ask you to submit teamwork statements twice:
-  * on the day after the deadline for Lab 3
-  * on the day after the deadline for the final lab (extension project)
+Please send this email on the day after the deadline for Lab 3.
+
+# Second Teamwork Report 
+
+The second teamwork statement should be submitted to apply for all labs, (1 to and and including 6). It should have the same format as the previous one, but should be submitted by each student on [this Moodle link for Final project teamwork statement](https://moodle.epfl.ch/mod/assign/view.php?id=1337629), by the day after the deadline for the final lab (extension project).
   
