@@ -8,6 +8,8 @@ Important information:
 
   * Please register for project groups on Moodle as soon as this is possible
 
+  * The schedule for exercise sessions and lectures might change from week to week, please check the schedule below regularily.
+
 ## Grading
 
 The grade is based on a midterm (30%) as well as team project work (70%). Please read the [grading policy page](info/grading.md).
