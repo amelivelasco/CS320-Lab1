@@ -2,7 +2,7 @@
 
 The grade is based on a midterm (30%) as well as team project work (70%).
 
-The project work is done in groups of 2-3 people (no individual groups; the goal is in part to learn how to work together).
+The project work is done in groups of 3 people (exceptionally 2; no individual groups; the goal is in part to learn how to work together).
 The work has many aspects: the implementation in [Scala](https://www.scala-lang.org/) of aspects of an interpreter and compiler (labs 1 to 5) and Lab 6, which is an open project. There will be no written exam at the _end_ of the semester and no exam in the exam period. Here are the weights of the milestones in the overall course grade:
 
   * Midterm exam: 30% (see [the archive of past exams](past-exams/); note that we will have fewer multiple-choice questions this time)
