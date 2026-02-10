@@ -4,7 +4,7 @@ Links: [Moodle](https://moodle.epfl.ch/course/view.php?id=4241) and [Course Desc
 
 Important information:
 
-  * Midterm exam date: 25.03 at 13:05. You can prepare one reminder sheet (2 sided) that you can consule during the exam.
+  * Midterm exam date: 27.03.2026 at 13:05. You can prepare one reminder sheet (2 sided) that you can consule during the exam.
 
   * Please register for project groups on Moodle as soon as this is possible
 
