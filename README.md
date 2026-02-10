@@ -18,21 +18,21 @@ The grade is based on a midterm (30%) as well as team project work (70%). Please
 
 | Week | Labs | Day | Date       | Time  | Room   | Topic                | Materials              
 | :--  | :--  | :-- | :--        | :--   | :--    | :--                  | :--                          
-| 1    |      | Wed | 18.02.2025 | 13:15 | BC 01  | Lecture 1            | [Intro to CLP](https://mediaspace.epfl.ch/media/01-01%2C+Intro+to+Computer+Language+Processing/0_okro5h0v) [(PDF)](info/lectures/lec01a.pdf), [Formal languages](https://mediaspace.epfl.ch/media/01-02%2C+Formal+Languages/0_segfj94w) [(PDF)](info/lectures/lec01b.pdf) |
+| 1    |      | Wed | 18.02.2026 | 13:15 | CM 1 2  | Lecture 1            | [Intro to CLP](https://mediaspace.epfl.ch/media/01-01%2C+Intro+to+Computer+Language+Processing/0_okro5h0v) [(PDF)](info/lectures/lec01a.pdf), [Formal languages](https://mediaspace.epfl.ch/media/01-02%2C+Formal+Languages/0_segfj94w) [(PDF)](info/lectures/lec01b.pdf) |
 
 
 ## Future plans
 
 | Week | Labs   | Day | Date       | Time  | Room   | Topic                | Materials  |            
 | :--  | :--  | :-- | :--        | :--   | :--    | :--                  | :--          |
-| -    |        | Wed | 25.03.2025 |       |        | Exercises |  |
-|      |        | Fri | 27.03.2025 | 13:05 |        | **EXAM** |  |
-|      |        | Fri | 27.03.2025 |       |        | **EXAM** |  |
-|      |        | Fri | 03.04.2025 | 13:15 | ELA 2  | **Holiday**          |            |
-|      |        | Fri | 03.04.2025 | 15:15 | ELA 2  | **Holiday**          |            |
-| -    |        | Wed | 08.04.2025 |       |        | **Break** |  |
-|      |        | Fri | 10.04.2025 |       |        | **Break** |  |
-|      |        | Fri | 10.04.2025 |       |        | **Break** |  |
+| -    |        | Wed | 25.03.2026 |       |  CM 1 2| Exercises |  |
+|      |        | Fri | 27.03.2026 | 13:05 |        | **EXAM** |  |
+|      |        | Fri | 27.03.2026 |       |        | **EXAM** |  |
+|      |        | Fri | 03.04.2026 | 13:15 | CM 1 1  | **Holiday**          |            |
+|      |        | Fri | 03.04.2026 | 15:15 | CM 1 1  | **Holiday**          |            |
+| -    |        | Wed | 08.04.2026 |       |        | **Break** |  |
+|      |        | Fri | 10.04.2026 |       |        | **Break** |  |
+|      |        | Fri | 10.04.2026 |       |        | **Break** |  |
 
 
 **Deadline for submission of the report and code:** end of the semester. Keeping in mind the [grading policy](info/grading.md), please submit:
