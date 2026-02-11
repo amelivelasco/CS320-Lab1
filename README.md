@@ -16,12 +16,11 @@ The grade is based on a midterm (30%) as well as team project work (70%). Please
 
 ## Schedule and Materials 
 
-| Week | Labs | Day | Date       | Time  | Room   | Topic                | Materials              
-| :--  | :--  | :-- | :--        | :--   | :--    | :--                  | :--                          
+| Week | Labs | Day | Date       | Time  | Room    | Topic                | Materials              
+| :--  | :--  | :-- | :--        | :--   | :--     | :--                  | :--                          
 | 1    |      | Wed | 18.02.2026 | 13:15 | CM 1 2  | Lecture 1            | [Intro to CLP](https://mediaspace.epfl.ch/media/01-01%2C+Intro+to+Computer+Language+Processing/0_okro5h0v) [(PDF)](info/lectures/lec01a.pdf), [Formal languages](https://mediaspace.epfl.ch/media/01-02%2C+Formal+Languages/0_segfj94w) [(PDF)](info/lectures/lec01b.pdf) |
-|      |      | Fri | 20.02.2025 | 13:15 | CM 1 1  | Lecture 2 | [Operations on Formal Languages](https://mediaspace.epfl.ch/media/02-01%2C+Operations+on+Formal+Languages/0_otyeghg6), [Regular Expressions and Idea of a Lexer](https://mediaspace.epfl.ch/media/02-02%2C+Regular+Expressions+and+Lexer+Idea/0_th59v9kx) [(PDF)](info/lectures/lec02.pdf) |
-|      | 1.... | Fri | 20.02.2025 | 15:15 | CM 1 1 | Lab 1 | [Interpreter lab released (due in 2 weeks)](./info/labs/lab01/) |
-
+|      |      | Fri | 20.02.2025 | 13:15 | CM 1 1  | Lecture 2            | [Operations on Formal Languages](https://mediaspace.epfl.ch/media/02-01%2C+Operations+on+Formal+Languages/0_otyeghg6), [Regular Expressions and Idea of a Lexer](https://mediaspace.epfl.ch/media/02-02%2C+Regular+Expressions+and+Lexer+Idea/0_th59v9kx) [(PDF)](info/lectures/lec02.pdf) |
+|      | 1... | Fri | 20.02.2025 | 15:15 | CM 1 1  | Lab 1                | [Interpreter lab released (due in 2 weeks)](./info/labs/lab01/) |
 
 ## Future plans
 
