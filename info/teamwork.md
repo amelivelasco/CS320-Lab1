@@ -1,4 +1,4 @@
-# First Teamwork Report 
+# First Teamwork Report TODO update
 
 To monitor fair division of work in your groups, we ask that each of you sends us an _individual_ email, from your EPFL address, to both PhD assistants and the instructor via **email**.
 The email should contain an estimate how much you and your team mates contributed to each of the four common projects and to the self-chosen final project, with * next to your name, in the form of a table with percentages rounded down, e.g., with a perfect split:
