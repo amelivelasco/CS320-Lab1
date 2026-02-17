@@ -2,20 +2,20 @@
 
 The grade is based on a midterm (30%) as well as team project work (70%).
 
-The project work is done in groups of 3 people (exceptionally 2; no individual groups; the goal is in part to learn how to work together).
+The project work is done in groups of 3 people (exceptionally 2; no individual groups except for Lab 1; the goal is in part to learn how to work together).
 The work has many aspects: the implementation in [Scala](https://www.scala-lang.org/) of aspects of an interpreter and compiler (labs 1 to 5) and Lab 6, which is an open project. There will be no written exam at the _end_ of the semester and no exam in the exam period. Here are the weights of the milestones in the overall course grade:
 
-  * Midterm exam: 30% (see [the archive of past exams](past-exams/); note that we will have fewer multiple-choice questions this time)
+  * Midterm exam: 30% (we will soon release [the archive of past exams](past-exams/); note that the exam may be hard and the nature of questions may vary)
   * 10% Lab 1
   * 10% Lab 2
-  * 10% Lab 3 (First team work statement to be sent afterwards)
+  * 10% Lab 3 
   * 10% Lab 4
   * 10% Lab 5
-  * 20% Lab 6 (Compiler extension, customized, the final team work statement)
+  * 20% Lab 6 (Compiler extension, customized)
 
 After the deadline for the submitted lab has passed, you are allowed to discuss the lab with other group members and with teaching staff, so that you can correct it and continue to use your code in subsequent labs.
 
-Please note that, after the lab deadline, we reserve the right to ask you to explain any code that you submitted for the lab. You need to understand all the code submitted, regardless whether you or another group member wrote it. You can use all tools at your disposal (e.g., forum posts, search engines, AI tools,...) **but must understand, be able to walk someone through, and explain all the code you submit.** Your work should comply with general EPFL policy about cheating described [here](https://www.epfl.ch/about/overview/wp-content/uploads/2019/09/1.3.3_dir_plagiat_etudiant_an.pdf). We will let you know in advance when you need to be present in the labs or exercises for such oral explanations on your laptop. Taking this into account, you are welcome to write and submit comments explaining what your code does.
+Please note that, after the lab deadline, we reserve the right to ask you to explain any code that you submitted for the lab and we will announce sessions where you will be asked to do this. You need to understand all the code submitted, regardless whether you or another group member wrote it. Your work should comply with general EPFL policy about cheating described [here](https://www.epfl.ch/about/overview/wp-content/uploads/2019/09/1.3.3_dir_plagiat_etudiant_an.pdf). Beyond that, you can use various tools at your disposal (e.g., forum posts, search engines, AI tools) **but must understand, be able to walk someone through, and explain all the code you submit.**  We will let you know in advance when you need to be present in the labs or exercises for such oral explanations on your laptop. Taking this into account, you are welcome to write and submit comments explaining what your code does.
 
 To monitor whether everyone is doing their share of work and help ensure that group members work together, we ask each student to submit via Moodle their teamwork statement after every lab. Please read carefully the [Teamwork Statements](teamwork.md) instructions.
 
