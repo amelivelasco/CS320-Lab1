@@ -36,10 +36,7 @@ The grade is based on a midterm (30%) as well as team project work (70%). Please
 |      |        | Fri | 10.04.2026 |       |        | **Break** |  |
 
 
-**Deadline for submission of the report and code:** end of the semester. Keeping in mind the [grading policy](info/grading.md), please submit:
-  * [Final Project Report PDF + Code zip file including README](https://moodle.epfl.ch/mod/assign/view.php?id=1297544). One PDF for report following [Project report template](info/labs/lab06/project_report_template.md) and one ZIP file containing README with instructions. Only one person should submit on behalf of the group. Resubmissions are possible until the deadline.
-  * [Final Teamwork Statement](https://moodle.epfl.ch/mod/assign/view.php?id=1337629) to be submitted by every student individually, applying to all the labs in the course including Lab 6.
-
+**Deadline for submission of the report and code:** end of the semester.
 
 ## Books
 
