@@ -51,5 +51,5 @@ The grade is based on a midterm (30%) as well as team project work (70%). Please
 | MSc TA    | [Sidonie Bouthors](https://people.epfl.ch/sidonie.bouthors)     |
 | MSc TA    | [Léa Blancher](https://people.epfl.ch/lea.blancher)             |
 | MSc TA    | [Charlie Mangano](https://people.epfl.ch/charlie.mangano)       |
-| MSc TA    | [Asli Ünlüer](https://people.epfl.ch/asli.unluer)               |
+| MSc TA    | [Aslı Ünlüer](https://people.epfl.ch/asli.unluer)               |
 | MSc TA    | [Richard Petre](https://people.epfl.ch/richard.petre/)          |
