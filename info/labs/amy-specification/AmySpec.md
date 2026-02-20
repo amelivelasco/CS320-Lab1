@@ -2,7 +2,7 @@
 
 **Computer Language Processing**  
 **LARA**  
-**Spring 2025**
+**Spring 2026**
 
 ## 1. Introduction
 

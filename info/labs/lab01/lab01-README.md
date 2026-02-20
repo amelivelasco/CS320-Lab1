@@ -4,7 +4,7 @@ Below you will find the instructions for the first lab assignment in which you w
 
 ## Logistics
 
-As a reminder, the labs are done in groups of 2-3, please register on Moodle if not already done.
+As a reminder, this lab is done individually. Subsequent labs will be done in groups of 3 (exceptionnally 2). 
 
 We advice you to create a private git repository to track your work and collaborate.
 
