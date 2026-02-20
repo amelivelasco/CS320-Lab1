@@ -28,6 +28,14 @@ You can use the provided Frontend to type check your programs. To do so, run the
 ./amytc.sh examples/your_program.amy
 ```
 
+You can also run the type checker directly from sbt:
+
+```bash
+  $ sbt
+  > run library/Std.amy examples/Hello.amy --type-check
+  Hello world!
+```
+
 This will run the compiler frontend up to type checking and report either `Type checking successful!` or an error message. If you get an error message, you should fix the error before moving on to the next step.
 
 Please examine the bash script amytc.sh and its comments in your editor to understand how it works. Do not modify it.
@@ -103,7 +111,7 @@ When you are done, use sbt to try some of your programs from Part 1:
 
 ```bash
   $ sbt
-  > run library/Std.amy examples/Hello.amy
+  > run library/Std.amy examples/Hello.amy --interpret
   Hello world!
 ```
 
